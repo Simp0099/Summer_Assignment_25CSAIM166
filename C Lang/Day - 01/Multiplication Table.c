@@ -1,5 +1,5 @@
 
-#Program to print the multiplication table of a number.
+//Program to print the multiplication table of a number.
 
 #include <stdio.h>
 

@@ -1,4 +1,4 @@
-#Program to find the sum of first n numbers.
+//Program to find the sum of first n numbers.
 
 #include <stdio.h>
 
